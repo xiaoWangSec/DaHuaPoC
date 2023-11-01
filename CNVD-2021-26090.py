@@ -31,7 +31,7 @@ def poc(target):
         print("[-]", target, "访问超时")
         return
     if "true" in result:
-        print("[+]", target, "存在漏洞")
+        print("[+]", target, "存在CNVD-2021-26090漏洞")
         return
     print("[-]", target, "不存在漏洞")
 
