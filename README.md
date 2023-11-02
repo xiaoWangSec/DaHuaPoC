@@ -5,7 +5,7 @@ Dahua PoC
 # CNVD-2021-26090
 # CNVD-2022-44216
 # CNVD-2022-38178
-三套系统调用的接口一样, UI不同: [ICC 逻辑缺陷]()
+三套系统调用的接口一样, UI不同: [ICC 逻辑缺陷](https://flyd.uk/post/DaHuaPoC/)
 
 请使用`CNVD-2021-26090.py`
 
@@ -18,8 +18,8 @@ Dahua PoC
 
 
 # CNVD-2023-40905
-[ICC 配置系统逻辑缺陷]()
+[ICC 配置系统逻辑缺陷](https://flyd.uk/post/DaHuaPoC/)
 
 
 # DVB-2023-4908
-[ICC 逻辑缺陷]()
+[ICC 逻辑缺陷](https://flyd.uk/post/DaHuaPoC/)
